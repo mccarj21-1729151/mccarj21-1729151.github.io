@@ -1,0 +1,38 @@
+body{
+    background-color:darkkhaki;
+}
+h1 {
+    color:darkblue;
+    text-align: center;
+    border-style:dotted;
+}
+h2 {
+    color: coral
+}
+p {
+    color:slateblue;
+    font-family:cursive; 
+    font-size: 30px;
+}
+#column1 {
+    float:left;
+    width: 33%;
+    color: crimson;
+}
+#column2 {
+    float:left;
+    width: 33%;
+    color: aliceblue;
+}
+#column3 {
+    float:left;
+    width: 33%;
+    color: blue;
+}
+#ip1 {
+    border-radius: 18px;
+    background: #609;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;    
+}
